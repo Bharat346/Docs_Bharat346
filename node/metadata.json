@@ -11,12 +11,12 @@
   "blogName": "Node Js",
   "subLinks": [
     {
-      "title": "Introduction to Node.JS",
-      "url": "intro_of_node"
-    },
-    {
       "title": "Node.js Setup",
       "url": "node_setup"
+    },
+    {
+      "title": "Introduction to Node.JS",
+      "url": "intro_of_node"
     }
   ]
 }
