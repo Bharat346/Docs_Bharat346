@@ -9,5 +9,14 @@
   ],
   "foldername": "node",
   "blogName": "Node Js",
-  "subLinks": []
+  "subLinks": [
+    {
+      "title": "Introduction to Node.JS",
+      "url": "intro_of_node"
+    },
+    {
+      "title": "Node.js Setup",
+      "url": "node_setup"
+    }
+  ]
 }
