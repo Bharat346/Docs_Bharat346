@@ -17,6 +17,11 @@
     {
       "title": "Introduction to Node.JS",
       "url": "intro_of_node"
+    },
+    {
+      "title": "Database with Node.js",
+      "url": "node_database"
     }
-  ]
+  ],
+  "folderName": "node"
 }
