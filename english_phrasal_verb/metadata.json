@@ -21,6 +21,10 @@
     {
       "title": "Put",
       "url": "put"
+    },
+    {
+      "title": "Take",
+      "url": "take"
     }
   ]
 }
