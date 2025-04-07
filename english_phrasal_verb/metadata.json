@@ -17,6 +17,10 @@
     {
       "title": "Bring",
       "url": "Bring"
+    },
+    {
+      "title": "Put",
+      "url": "put"
     }
   ]
 }
