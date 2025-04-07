@@ -9,5 +9,10 @@
   ],
   "folderName": "english_phrasal_verb",
   "blogName": "Phrasal Verbs",
-  "subLinks": []
+  "subLinks": [
+    {
+      "title": "Let and Bear",
+      "url": "Let_Bear"
+    }
+  ]
 }
