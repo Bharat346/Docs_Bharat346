@@ -25,6 +25,10 @@
     {
       "title": "Take",
       "url": "take"
+    },
+    {
+      "title": "Look",
+      "url": "look"
     }
   ]
 }
