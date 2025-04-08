@@ -5,5 +5,30 @@
   "baseName": "JEE",
   "parent": "Notes",
   "children": [],
-  "subfolders": {}
+  "subfolders": {
+    "physics": {
+      "type": "Folder",
+      "title": "Physics",
+      "baseName": "physics",
+      "parent": "",
+      "children": [
+        {
+          "type": "File",
+          "name": "demo.pdf",
+          "url": "https://example.com/demo.pdf",
+          "format": "pdf",
+          "date": "2025-04-08"
+        },
+        {
+          "type": "File",
+          "name": "hello.xlsx",
+          "url": "https://example.com/hello.xlsx",
+          "format": "xlsx",
+          "date": "2025-04-08"
+        }
+      ],
+      "subfolders": {},
+      "date": "2025-04-08"
+    }
+  }
 }
