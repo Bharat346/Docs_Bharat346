@@ -5,6 +5,43 @@
   "baseName": "Btech",
   "parent": "Notes",
   "children": [],
-  "subfolders": {},
+  "subfolders": {
+    "1st_Year": {
+      "type": "Folder",
+      "title": "1st Year",
+      "baseName": "1st_Year",
+      "parent": "",
+      "children": [],
+      "subfolders": {},
+      "date": "2025-04-08"
+    },
+    "2nd_Year": {
+      "type": "Folder",
+      "title": "2nd Year",
+      "baseName": "2nd_Year",
+      "parent": "",
+      "children": [],
+      "subfolders": {},
+      "date": "2025-04-08"
+    },
+    "3rd_Year": {
+      "type": "Folder",
+      "title": "3rd Year",
+      "baseName": "3rd_Year",
+      "parent": "",
+      "children": [],
+      "subfolders": {},
+      "date": "2025-04-08"
+    },
+    "4th_Year": {
+      "type": "Folder",
+      "title": "4th Year",
+      "baseName": "4th_Year",
+      "parent": "",
+      "children": [],
+      "subfolders": {},
+      "date": "2025-04-08"
+    }
+  },
   "subFiles": {}
 }
