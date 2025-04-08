@@ -29,6 +29,24 @@
       ],
       "subfolders": {},
       "date": "2025-04-08"
+    },
+    "chemistry": {
+      "type": "Folder",
+      "title": "Chemistry",
+      "baseName": "chemistry",
+      "parent": "",
+      "children": [],
+      "subfolders": {},
+      "date": "2025-04-08"
+    },
+    "math": {
+      "type": "Folder",
+      "title": "Math",
+      "baseName": "math",
+      "parent": "",
+      "children": [],
+      "subfolders": {},
+      "date": "2025-04-08"
     }
   }
 }
