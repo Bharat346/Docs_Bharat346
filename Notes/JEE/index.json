@@ -10,7 +10,7 @@
       "type": "Folder",
       "title": "Physics",
       "baseName": "physics",
-      "parent": "",
+      "parent": "JEE",
       "children": [
         {
           "type": "File",
@@ -29,23 +29,23 @@
       ],
       "subfolders": {
         "class11": {
-      "type": "Folder",
-      "title": "11th Class",
-      "baseName": "class11",
-      "parent": "Physics",
-      "children": [],
-      "subfolders": {},
-      "date": "2025-04-08"
-    },
+          "type": "Folder",
+          "title": "11th Class",
+          "baseName": "class11",
+          "parent": "physics",
+          "children": [],
+          "subfolders": {},
+          "date": "2025-04-08"
+        },
         "class12": {
-      "type": "Folder",
-      "title": "12th Class",
-      "baseName": "class12",
-      "parent": "Physics",
-      "children": [],
-      "subfolders": {},
-      "date": "2025-04-08"
-    },
+          "type": "Folder",
+          "title": "12th Class",
+          "baseName": "class12",
+          "parent": "physics",
+          "children": [],
+          "subfolders": {},
+          "date": "2025-04-08"
+        }
       },
       "date": "2025-04-08"
     },
@@ -53,7 +53,7 @@
       "type": "Folder",
       "title": "Chemistry",
       "baseName": "chemistry",
-      "parent": "",
+      "parent": "JEE",
       "children": [],
       "subfolders": {},
       "date": "2025-04-08"
@@ -62,7 +62,7 @@
       "type": "Folder",
       "title": "Math",
       "baseName": "math",
-      "parent": "",
+      "parent": "JEE",
       "children": [],
       "subfolders": {},
       "date": "2025-04-08"
