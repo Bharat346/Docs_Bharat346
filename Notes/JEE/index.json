@@ -27,7 +27,26 @@
           "date": "2025-04-08"
         }
       ],
+      "subfolders": {
+        "class11": {
+      "type": "Folder",
+      "title": "11th Class",
+      "baseName": "class11",
+      "parent": "Physics",
+      "children": [],
       "subfolders": {},
+      "date": "2025-04-08"
+    },
+        "class12": {
+      "type": "Folder",
+      "title": "12th Class",
+      "baseName": "class12",
+      "parent": "Physics",
+      "children": [],
+      "subfolders": {},
+      "date": "2025-04-08"
+    },
+      },
       "date": "2025-04-08"
     },
     "chemistry": {
