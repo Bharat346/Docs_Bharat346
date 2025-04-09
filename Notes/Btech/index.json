@@ -12,7 +12,17 @@
       "baseName": "1st_Year",
       "parent": "",
       "children": [],
-      "subfolders": {},
+      "subfolders": {
+        "sem1": {
+          "type": "Folder",
+          "title": "1st semester",
+          "baseName": "sem1",
+          "parent": "",
+          "children": [],
+          "subfolders": {},
+          "date": "2025-04-09"
+        }
+      },
       "date": "2025-04-08"
     },
     "2nd_Year": {
