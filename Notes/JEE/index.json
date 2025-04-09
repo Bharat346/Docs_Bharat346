@@ -34,7 +34,15 @@
               "title": "12th Class",
               "baseName": "class12",
               "parent": "physics",
-              "children": [],
+              "children": [
+                {
+                  "type": "File",
+                  "name": "Photo_Electric_Effect.pdf",
+                  "url": "https://drive.google.com/file/d/1cJGDJ3FF4YnODvThD6WTcbGtRcEqjPyU/view?usp=drive_link",
+                  "format": "pdf",
+                  "date": "2025-04-09"
+                }
+              ],
               "subfolders": {},
               "date": "2025-04-09"
             }
