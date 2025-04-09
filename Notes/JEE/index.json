@@ -29,19 +29,19 @@
           "parent": "physics",
           "children": [
             {
-          "type": "File",
-          "name": "Photo-Electric-Effect.pdf",
-          "url": "https://drive.google.com/file/d/1cJGDJ3FF4YnODvThD6WTcbGtRcEqjPyU/view?usp=drive_link",
-          "format": "pdf",
-          "date": "2025-04-08"
-        },
-        {
-          "type": "File",
-          "name": "EM-Waves.pdf",
-          "url": "https://drive.google.com/file/d/1cIqmMhaNhTqDVSJQ92qCSpHRjzIUHKiz/view?usp=drive_link",
-          "format": "pdf",
-          "date": "2025-04-08"
-        }
+              "type": "File",
+              "name": "Photo-Electric-Effect.pdf",
+              "url": "https://drive.google.com/file/d/1cJGDJ3FF4YnODvThD6WTcbGtRcEqjPyU/view?usp=drive_link",
+              "format": "pdf",
+              "date": "2025-04-08"
+            },
+            {
+              "type": "File",
+              "name": "EM-Waves.pdf",
+              "url": "https://drive.google.com/file/d/1cIqmMhaNhTqDVSJQ92qCSpHRjzIUHKiz/view?usp=drive_link",
+              "format": "pdf",
+              "date": "2025-04-08"
+            }
           ],
           "subfolders": {},
           "date": "2025-04-08"
@@ -53,9 +53,19 @@
       "type": "Folder",
       "title": "Chemistry",
       "baseName": "chemistry",
-      "parent": "JEE",
+      "parent": "chemistry",
       "children": [],
-      "subfolders": {},
+      "subfolders": {
+        "class11": {
+          "type": "Folder",
+          "title": "11th Class",
+          "baseName": "class11",
+          "parent": "",
+          "children": [],
+          "subfolders": {},
+          "date": "2025-04-09"
+        }
+      },
       "date": "2025-04-08"
     },
     "math": {
