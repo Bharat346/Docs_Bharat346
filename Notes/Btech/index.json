@@ -29,6 +29,15 @@
           "children": [],
           "subfolders": {},
           "date": "2025-04-09"
+        },
+        "sem2": {
+          "type": "Folder",
+          "title": "2nd Semester",
+          "baseName": "sem2",
+          "parent": "year1",
+          "children": [],
+          "subfolders": {},
+          "date": "2025-04-09"
         }
       },
       "date": "2025-04-09"
