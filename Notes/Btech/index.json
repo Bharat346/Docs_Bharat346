@@ -12,7 +12,44 @@
       "baseName": "2023",
       "parent": "Btech",
       "children": [],
-      "subfolders": {},
+      "subfolders": {
+        "year1": {
+          "type": "Folder",
+          "title": "1st Year",
+          "baseName": "year1",
+          "parent": "2023",
+          "children": [],
+          "subfolders": {},
+          "date": "2025-04-09"
+        },
+        "year2": {
+          "type": "Folder",
+          "title": "2nd Year",
+          "baseName": "year2",
+          "parent": "2023",
+          "children": [],
+          "subfolders": {},
+          "date": "2025-04-09"
+        },
+        "year3": {
+          "type": "Folder",
+          "title": "3rd Year",
+          "baseName": "year3",
+          "parent": "2023",
+          "children": [],
+          "subfolders": {},
+          "date": "2025-04-09"
+        },
+        "year4": {
+          "type": "Folder",
+          "title": "4th Year",
+          "baseName": "year4",
+          "parent": "2023",
+          "children": [],
+          "subfolders": {},
+          "date": "2025-04-09"
+        }
+      },
       "date": "2025-04-09"
     },
     "2024": {
