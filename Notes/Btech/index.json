@@ -40,7 +40,26 @@
       "baseName": "2nd_Year",
       "parent": "",
       "children": [],
-      "subfolders": {},
+      "subfolders": {
+        "sem3": {
+          "type": "Folder",
+          "title": "3rd semester",
+          "baseName": "sem3",
+          "parent": "",
+          "children": [],
+          "subfolders": {},
+          "date": "2025-04-09"
+        },
+        "sem4": {
+          "type": "Folder",
+          "title": "4th semester",
+          "baseName": "sem4",
+          "parent": "",
+          "children": [],
+          "subfolders": {},
+          "date": "2025-04-09"
+        }
+      },
       "date": "2025-04-08"
     },
     "3rd_Year": {
