@@ -5,6 +5,16 @@
   "baseName": "Btech",
   "parent": "Notes",
   "children": [],
-  "subfolders": {},
+  "subfolders": {
+    "year1": {
+      "type": "Folder",
+      "title": "1st Year",
+      "baseName": "year1",
+      "parent": "Btech",
+      "children": [],
+      "subfolders": {},
+      "date": "2025-04-09"
+    }
+  },
   "subFiles": {}
 }
