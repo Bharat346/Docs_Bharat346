@@ -14,16 +14,16 @@
       "children": [
         {
           "type": "File",
-          "name": "demo.pdf",
-          "url": "https://example.com/demo.pdf",
+          "name": "Photo-Electric-Effect.pdf",
+          "url": "https://drive.google.com/drive/u/0/folders/1ULlWbIl8Tr98h3dhF4qguIE6br1kYfcX",
           "format": "pdf",
           "date": "2025-04-08"
         },
         {
           "type": "File",
-          "name": "hello.xlsx",
-          "url": "https://example.com/hello.xlsx",
-          "format": "xlsx",
+          "name": "EM-Waves.pdf",
+          "url": "https://drive.google.com/drive/u/0/folders/1ULlWbIl8Tr98h3dhF4qguIE6br1kYfcX",
+          "format": "pdf",
           "date": "2025-04-08"
         }
       ],
