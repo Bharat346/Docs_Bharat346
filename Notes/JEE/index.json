@@ -103,7 +103,22 @@
               "title": "11th Class",
               "baseName": "class11",
               "parent": "math",
-              "children": [],
+              "children": [
+                {
+                  "type": "File",
+                  "name": "Sequence_and_Series.pdf",
+                  "url": "https://drive.google.com/file/d/1cV_qXoUYYe-PRI-ZsKBg1doPTwliE4Cg/view?usp=drive_link",
+                  "format": "pdf",
+                  "date": "2025-04-09"
+                },
+                {
+                  "type": "File",
+                  "name": "Quadratic_Equation.pdf",
+                  "url": "https://drive.google.com/file/d/1cVNla-WKwY9iV9WiRobfsnAgRJv7tYLl/view?usp=drive_link",
+                  "format": "pdf",
+                  "date": "2025-04-09"
+                }
+              ],
               "subfolders": {},
               "date": "2025-04-09"
             },
