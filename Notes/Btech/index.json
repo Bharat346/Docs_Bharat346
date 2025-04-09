@@ -5,6 +5,25 @@
   "baseName": "Btech",
   "parent": "Notes",
   "children": [],
-  "subfolders": {},
+  "subfolders": {
+    "2023": {
+      "type": "Folder",
+      "title": "2023",
+      "baseName": "2023",
+      "parent": "Btech",
+      "children": [],
+      "subfolders": {},
+      "date": "2025-04-09"
+    },
+    "2024": {
+      "type": "Folder",
+      "title": "2024",
+      "baseName": "2024",
+      "parent": "Btech",
+      "children": [],
+      "subfolders": {},
+      "date": "2025-04-09"
+    }
+  },
   "subFiles": {}
 }
