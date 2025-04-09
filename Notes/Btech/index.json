@@ -12,7 +12,17 @@
       "baseName": "year1",
       "parent": "Btech",
       "children": [],
-      "subfolders": {},
+      "subfolders": {
+        "sem1": {
+          "type": "Folder",
+          "title": "1st Semester",
+          "baseName": "sem1",
+          "parent": "year1",
+          "children": [],
+          "subfolders": {},
+          "date": "2025-04-09"
+        }
+      },
       "date": "2025-04-09"
     }
   },
