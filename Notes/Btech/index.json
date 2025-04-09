@@ -41,6 +41,33 @@
         }
       },
       "date": "2025-04-09"
+    },
+    "year2": {
+      "type": "Folder",
+      "title": "2nd Year",
+      "baseName": "year2",
+      "parent": "Btech",
+      "children": [],
+      "subfolders": {},
+      "date": "2025-04-09"
+    },
+    "year3": {
+      "type": "Folder",
+      "title": "3rd Year",
+      "baseName": "year3",
+      "parent": "Btech",
+      "children": [],
+      "subfolders": {},
+      "date": "2025-04-09"
+    },
+    "year4": {
+      "type": "Folder",
+      "title": "4th Year",
+      "baseName": "year4",
+      "parent": "Btech",
+      "children": [],
+      "subfolders": {},
+      "date": "2025-04-09"
     }
   },
   "subFiles": {}
