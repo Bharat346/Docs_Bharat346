@@ -41,6 +41,20 @@
                   "url": "https://drive.google.com/file/d/1cJGDJ3FF4YnODvThD6WTcbGtRcEqjPyU/view?usp=drive_link",
                   "format": "pdf",
                   "date": "2025-04-09"
+                },
+                {
+                  "type": "File",
+                  "name": "EM_Waves.pdf",
+                  "url": "https://drive.google.com/file/d/1cIqmMhaNhTqDVSJQ92qCSpHRjzIUHKiz/view?usp=drive_link",
+                  "format": "pdf",
+                  "date": "2025-04-09"
+                },
+                {
+                  "type": "File",
+                  "name": "Atom.pdf",
+                  "url": "https://drive.google.com/file/d/1-4KucjmB0Qu63YvhIx2KXXlImEfT0qQ2/view?usp=drive_link",
+                  "format": "pdf",
+                  "date": "2025-04-09"
                 }
               ],
               "subfolders": {},
