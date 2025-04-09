@@ -13,23 +13,14 @@
       "parent": "",
       "children": [],
       "subfolders": {
-        "1st_sem": {
+        "sem1": {
           "type": "Folder",
-          "title": "1st Semester",
-          "baseName": "1st_sem",
+          "title": "1st sem",
+          "baseName": "sem1",
           "parent": "",
           "children": [],
           "subfolders": {},
-          "date": "2025-04-08"
-        },
-        "2nd_sem": {
-          "type": "Folder",
-          "title": "2nd Semester",
-          "baseName": "2nd_sem",
-          "parent": "",
-          "children": [],
-          "subfolders": {},
-          "date": "2025-04-08"
+          "date": "2025-04-09"
         }
       },
       "date": "2025-04-08"
