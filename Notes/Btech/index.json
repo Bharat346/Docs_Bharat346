@@ -4,7 +4,15 @@
   "date": "2025-04-09",
   "baseName": "Btech",
   "parent": "Notes",
-  "children": [],
+  "children": [
+    {
+      "type": "File",
+      "name": "Intro.xlsx",
+      "url": "http://example.com/",
+      "format": "xlsx",
+      "date": "2025-04-09"
+    }
+  ],
   "subfolders": {
     "year1": {
       "type": "Folder",
