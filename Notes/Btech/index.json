@@ -103,7 +103,26 @@
           "baseName": "year4",
           "parent": "2023",
           "children": [],
-          "subfolders": {},
+          "subfolders": {
+            "sem7": {
+              "type": "Folder",
+              "title": "7th Semester",
+              "baseName": "sem7",
+              "parent": "year4",
+              "children": [],
+              "subfolders": {},
+              "date": "2025-04-09"
+            },
+            "sem8": {
+              "type": "Folder",
+              "title": "8th Semester",
+              "baseName": "sem8",
+              "parent": "year4",
+              "children": [],
+              "subfolders": {},
+              "date": "2025-04-09"
+            }
+          },
           "date": "2025-04-09"
         }
       },
