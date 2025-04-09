@@ -5,6 +5,63 @@
   "baseName": "JEE",
   "parent": "Notes",
   "children": [],
-  "subfolders": {},
+  "subfolders": {
+    "1_0": {
+      "type": "Folder",
+      "title": "1.0",
+      "baseName": "1_0",
+      "parent": "JEE",
+      "children": [],
+      "subfolders": {
+        "physics": {
+          "type": "Folder",
+          "title": "Physics",
+          "baseName": "physics",
+          "parent": "1_0",
+          "children": [],
+          "subfolders": {
+            "class11": {
+              "type": "Folder",
+              "title": "11th Class",
+              "baseName": "class11",
+              "parent": "physics",
+              "children": [],
+              "subfolders": {},
+              "date": "2025-04-09"
+            },
+            "class12": {
+              "type": "Folder",
+              "title": "12th Class",
+              "baseName": "class12",
+              "parent": "physics",
+              "children": [],
+              "subfolders": {},
+              "date": "2025-04-09"
+            }
+          },
+          "date": "2025-04-09"
+        },
+        "chemistry": {
+          "type": "Folder",
+          "title": "Chemistry",
+          "baseName": "chemistry",
+          "parent": "1_0",
+          "children": [],
+          "subfolders": {},
+          "date": "2025-04-09"
+        },
+        "math": {
+          "type": "Folder",
+          "title": "Math",
+          "baseName": "math",
+          "parent": "1_0",
+          "children": [],
+          "subfolders": {},
+          "date": "2025-04-09"
+        }
+      },
+      "date": "2025-04-09"
+    }
+  },
   "subFiles": {}
 }
