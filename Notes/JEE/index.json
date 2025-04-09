@@ -11,22 +11,7 @@
       "title": "Physics",
       "baseName": "physics",
       "parent": "JEE",
-      "children": [
-        {
-          "type": "File",
-          "name": "Photo-Electric-Effect.pdf",
-          "url": "https://drive.google.com/drive/u/0/folders/1ULlWbIl8Tr98h3dhF4qguIE6br1kYfcX",
-          "format": "pdf",
-          "date": "2025-04-08"
-        },
-        {
-          "type": "File",
-          "name": "EM-Waves.pdf",
-          "url": "https://drive.google.com/drive/u/0/folders/1ULlWbIl8Tr98h3dhF4qguIE6br1kYfcX",
-          "format": "pdf",
-          "date": "2025-04-08"
-        }
-      ],
+      "children": [],
       "subfolders": {
         "class11": {
           "type": "Folder",
@@ -42,7 +27,22 @@
           "title": "12th Class",
           "baseName": "class12",
           "parent": "physics",
-          "children": [],
+          "children": [
+            {
+          "type": "File",
+          "name": "Photo-Electric-Effect.pdf",
+          "url": "https://drive.google.com/drive/u/0/folders/1ULlWbIl8Tr98h3dhF4qguIE6br1kYfcX",
+          "format": "pdf",
+          "date": "2025-04-08"
+        },
+        {
+          "type": "File",
+          "name": "EM-Waves.pdf",
+          "url": "https://drive.google.com/drive/u/0/folders/1ULlWbIl8Tr98h3dhF4qguIE6br1kYfcX",
+          "format": "pdf",
+          "date": "2025-04-08"
+        }
+          ],
           "subfolders": {},
           "date": "2025-04-08"
         }
