@@ -47,7 +47,26 @@
           "baseName": "chemistry",
           "parent": "1_0",
           "children": [],
-          "subfolders": {},
+          "subfolders": {
+            "class11": {
+              "type": "Folder",
+              "title": "11th Class",
+              "baseName": "class11",
+              "parent": "chemistry",
+              "children": [],
+              "subfolders": {},
+              "date": "2025-04-09"
+            },
+            "class12": {
+              "type": "Folder",
+              "title": "12th Class",
+              "baseName": "class12",
+              "parent": "chemistry",
+              "children": [],
+              "subfolders": {},
+              "date": "2025-04-09"
+            }
+          },
           "date": "2025-04-09"
         },
         "math": {
@@ -56,7 +75,26 @@
           "baseName": "math",
           "parent": "1_0",
           "children": [],
-          "subfolders": {},
+          "subfolders": {
+            "class11": {
+              "type": "Folder",
+              "title": "11th Class",
+              "baseName": "class11",
+              "parent": "math",
+              "children": [],
+              "subfolders": {},
+              "date": "2025-04-09"
+            },
+            "class12": {
+              "type": "Folder",
+              "title": "12th Class",
+              "baseName": "class12",
+              "parent": "math",
+              "children": [],
+              "subfolders": {},
+              "date": "2025-04-09"
+            }
+          },
           "date": "2025-04-09"
         }
       },
