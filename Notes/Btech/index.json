@@ -75,7 +75,26 @@
           "baseName": "year3",
           "parent": "2023",
           "children": [],
-          "subfolders": {},
+          "subfolders": {
+            "sem5": {
+              "type": "Folder",
+              "title": "5th Semester",
+              "baseName": "sem5",
+              "parent": "year3",
+              "children": [],
+              "subfolders": {},
+              "date": "2025-04-09"
+            },
+            "sem6": {
+              "type": "Folder",
+              "title": "6th Semester",
+              "baseName": "sem6",
+              "parent": "year3",
+              "children": [],
+              "subfolders": {},
+              "date": "2025-04-09"
+            }
+          },
           "date": "2025-04-09"
         },
         "year4": {
