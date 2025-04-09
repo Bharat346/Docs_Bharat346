@@ -48,7 +48,26 @@
       "baseName": "year2",
       "parent": "Btech",
       "children": [],
-      "subfolders": {},
+      "subfolders": {
+        "sem3": {
+          "type": "Folder",
+          "title": "3rd Semester",
+          "baseName": "sem3",
+          "parent": "year2",
+          "children": [],
+          "subfolders": {},
+          "date": "2025-04-09"
+        },
+        "sem4": {
+          "type": "Folder",
+          "title": "4th Semester",
+          "baseName": "sem4",
+          "parent": "year2",
+          "children": [],
+          "subfolders": {},
+          "date": "2025-04-09"
+        }
+      },
       "date": "2025-04-09"
     },
     "year3": {
