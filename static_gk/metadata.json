@@ -11,6 +11,9 @@
   "folderName": "static_gk",
   "blogName": "Static Gk",
   "subLinks": [
-
+    {
+      "title": "Course of Static GK",
+      "url": "course_of_static_gk"
+    }
   ]
 }
