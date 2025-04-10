@@ -14,7 +14,13 @@
     ],
     "folderName": "static_gk",
     "imageUrl": "https://th.bing.com/th/id/OIP.CtMTOTWCCMXZvgCSbNQBYgHaFy?w=242&h=189&c=7&r=0&o=5&dpr=1.3&pid=1.7",
-    "firstPageUrl": "course_of_static_gk"
+    "firstPageUrl": "course_of_static_gk",
+    "subLinks": [
+      {
+        "title": "Course of Static Gk",
+        "url": "course_of_statik_gk"
+      }
+    ]
   },
   {
     "id": "1744265519491",
