@@ -37,7 +37,81 @@
           "baseName": "gk_gs",
           "parent": "1_0",
           "children": [],
-          "subfolders": {},
+          "subfolders": {
+            "history": {
+              "type": "Folder",
+              "title": "History",
+              "baseName": "history",
+              "parent": "gk_gs",
+              "children": [],
+              "subfolders": {},
+              "date": "2025-04-10"
+            },
+            "geography": {
+              "type": "Folder",
+              "title": "Geography",
+              "baseName": "geography",
+              "parent": "gk_gs",
+              "children": [],
+              "subfolders": {},
+              "date": "2025-04-10"
+            },
+            "polity": {
+              "type": "Folder",
+              "title": "Polity",
+              "baseName": "polity",
+              "parent": "gk_gs",
+              "children": [],
+              "subfolders": {},
+              "date": "2025-04-10"
+            },
+            "economics": {
+              "type": "Folder",
+              "title": "Economics",
+              "baseName": "economics",
+              "parent": "gk_gs",
+              "children": [],
+              "subfolders": {},
+              "date": "2025-04-10"
+            },
+            "general_science": {
+              "type": "Folder",
+              "title": "General Science",
+              "baseName": "general_science",
+              "parent": "gk_gs",
+              "children": [],
+              "subfolders": {
+                "physics": {
+                  "type": "Folder",
+                  "title": "Physics",
+                  "baseName": "physics",
+                  "parent": "general_science",
+                  "children": [],
+                  "subfolders": {},
+                  "date": "2025-04-10"
+                },
+                "chemistry": {
+                  "type": "Folder",
+                  "title": "Chemistry",
+                  "baseName": "chemistry",
+                  "parent": "general_science",
+                  "children": [],
+                  "subfolders": {},
+                  "date": "2025-04-10"
+                },
+                "biology": {
+                  "type": "Folder",
+                  "title": "Biology",
+                  "baseName": "biology",
+                  "parent": "general_science",
+                  "children": [],
+                  "subfolders": {},
+                  "date": "2025-04-10"
+                }
+              },
+              "date": "2025-04-10"
+            }
+          },
           "date": "2025-04-10"
         },
         "English": {
