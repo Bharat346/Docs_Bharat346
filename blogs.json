@@ -31,5 +31,21 @@
     "folderName": "node",
     "imageUrl": "https://th.bing.com/th/id/OIP.m5RYM_Wkj4LsZewpigV5tgHaDf?w=323&h=164&c=7&r=0&o=5&dpr=1.3&pid=1.7",
     "firstPageUrl": "intro_of_node"
+  },
+  {
+    "id": "1744265606444",
+    "title": "Phrasal Verbs",
+    "author": "Bharat Kumar",
+    "description": "A phrasal verb is a combination of a verb and one or more particles (like prepositions or adverbs) that together create a new meaning. The meaning often differs from the individual words. Phrasal verbs are commonly used in everyday English and can be tricky for learners.",
+    "category": "English",
+    "date": "2025-04-10",
+    "tags": [
+      "English",
+      "Vocab",
+      "Phrasal Verbs"
+    ],
+    "folderName": "english_phrasal_verb",
+    "imageUrl": "https://th.bing.com/th/id/OIP.E0lkFndT6PaVXfB_MJocKQHaE8?w=238&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+    "firstPageUrl": "Let_Bear"
   }
 ]
