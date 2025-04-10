@@ -9,5 +9,26 @@
   ],
   "folderName": "english_phrasal_verb",
   "blogName": "Phrasal Verbs",
-  "subLinks": []
+  "subLinks": [
+    {
+      "title": "Let and Bear",
+      "url": "Let_Bear"
+    },
+    {
+      "title": "Look",
+      "url": "look"
+    },
+    {
+      "title": "Bring",
+      "url": "Bring"
+    },
+    {
+      "title": "Put",
+      "url": "put"
+    },
+    {
+      "title": "take",
+      "url": "take"
+    }
+  ]
 }
