@@ -9,5 +9,18 @@
   ],
   "folderName": "node",
   "blogName": "Node Js",
-  "subLinks": []
+  "subLinks": [
+    {
+      "title": "Introduction of Node",
+      "url": "intro_of_node"
+    },
+    {
+      "title": "Node Setup",
+      "url": "node_setup"
+    },
+    {
+      "title": "Node with databse",
+      "url": "node_with_databse"
+    }
+  ]
 }
