@@ -5,6 +5,53 @@
   "baseName": "ssc",
   "parent": "Notes",
   "children": [],
-  "subfolders": {},
+  "subfolders": {
+    "1_0": {
+      "type": "Folder",
+      "title": "1.0",
+      "baseName": "1_0",
+      "parent": "ssc",
+      "children": [],
+      "subfolders": {
+        "Reasoning": {
+          "type": "Folder",
+          "title": "Reasoning",
+          "baseName": "Reasoning",
+          "parent": "1_0",
+          "children": [],
+          "subfolders": {},
+          "date": "2025-04-10"
+        },
+        "quantitive_apptitude": {
+          "type": "Folder",
+          "title": "Quantitive Apptitude",
+          "baseName": "quantitive_apptitude",
+          "parent": "1_0",
+          "children": [],
+          "subfolders": {},
+          "date": "2025-04-10"
+        },
+        "gk_gs": {
+          "type": "Folder",
+          "title": "GK & GS",
+          "baseName": "gk_gs",
+          "parent": "1_0",
+          "children": [],
+          "subfolders": {},
+          "date": "2025-04-10"
+        },
+        "English": {
+          "type": "Folder",
+          "title": "English",
+          "baseName": "English",
+          "parent": "1_0",
+          "children": [],
+          "subfolders": {},
+          "date": "2025-04-10"
+        }
+      },
+      "date": "2025-04-10"
+    }
+  },
   "subFiles": {}
 }
