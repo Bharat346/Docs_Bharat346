@@ -1,27 +1,13 @@
 {
   "title": "Node Js",
   "author": "Bharat Kumar",
-  "date": "2025-04-05",
+  "date": "2025-04-10",
   "tags": [
     "JS",
     "Backend",
-    "Web-Dev"
+    "Node.js"
   ],
-  "foldername": "node",
+  "folderName": "node",
   "blogName": "Node Js",
-  "subLinks": [
-    {
-      "title": "Introduction to Node.JS",
-      "url": "intro_of_node"
-    },
-    {
-      "title": "Node.js Setup",
-      "url": "node_setup"
-    },
-    {
-      "title": "Database with Node.js",
-      "url": "node_database"
-    }
-  ],
-  "folderName": "node"
+  "subLinks": []
 }
