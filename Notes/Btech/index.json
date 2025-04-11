@@ -54,7 +54,25 @@
               "baseName": "sem3",
               "parent": "year2",
               "children": [],
-              "subfolders": {},
+              "subfolders": {
+                "DBMS": {
+                  "type": "Folder",
+                  "title": "DBMS",
+                  "baseName": "DBMS",
+                  "parent": "sem3",
+                  "children": [
+                    {
+                      "type": "File",
+                      "name": "data.pdf",
+                      "url": "https://drive.google.com/file/d/167riYZl6NsPESQz3YmB9USGdyveT5r3_/view?usp=sharing",
+                      "format": "pdf",
+                      "date": "2025-04-11"
+                    }
+                  ],
+                  "subfolders": {},
+                  "date": "2025-04-11"
+                }
+              },
               "date": "2025-04-09"
             },
             "sem4": {
