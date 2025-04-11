@@ -1,10 +1,7 @@
 [
   {
-    "id": "1744265348897",
     "title": "Static Gk",
     "author": "Bharat Kumar",
-    "description": "Static GK (General Knowledge) refers to facts that do not change over time, such as countries, capitals, historical events, books, important dates, and national symbols.It helps assess a candidate’s awareness of foundational topics. Unlike current affairs, it remains constant and is easy to revise.",
-    "category": "Exam",
     "date": "2025-04-10",
     "tags": [
       "Govt Exam",
@@ -13,8 +10,6 @@
       "Group-C"
     ],
     "folderName": "static_gk",
-    "imageUrl": "https://th.bing.com/th/id/OIP.CtMTOTWCCMXZvgCSbNQBYgHaFy?w=242&h=189&c=7&r=0&o=5&dpr=1.3&pid=1.7",
-    "firstPageUrl": "course_of_static_gk",
     "blogName": "Static Gk"
   },
   {
