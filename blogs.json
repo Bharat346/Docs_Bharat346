@@ -23,7 +23,7 @@
        "author": "Bharat Kumar",
        "date": "2025-04-10",
        "description": "Node.js is a powerful, open-source runtime environment that allows JavaScript to run on the server side. Built on Chrome's V8 engine, it enables fast, event-driven, and scalable network applications. It's widely used for building APIs, web apps, and real-time services.",
-       "category": "Exam",
+       "category": "coding",
        "tags": [
          "JS",
          "Backend",
