@@ -1,17 +1,23 @@
 [
   {
-    "title": "Static Gk",
-    "author": "Bharat Kumar",
-    "date": "2025-04-10",
-    "tags": [
-      "Govt Exam",
-      "Competitive Exam",
-      "Group-B",
-      "Group-C"
-    ],
-    "folderName": "static_gk",
-    "blogName": "Static Gk"
-  },
+  "id": "1744338000000",
+  "title": "Static Gk",
+  "author": "Bharat Kumar",
+  "date": "2025-04-10",
+  "description": "Static GK (General Knowledge) includes facts that are unlikely to change over time, such as historical events, geography, books & authors, important organizations, and Indian polity. It is crucial for competitive exams like UPSC, SSC, and state-level exams.",
+  "category": "General Knowledge",
+  "tags": [
+    "Govt Exam",
+    "Competitive Exam",
+    "Group-B",
+    "Group-C",
+    "Static GK"
+  ],
+  "folderName": "static_gk",
+  "imageUrl": "https://i.cdn.newsbytesapp.com/images/l56220230715230701.jpeg",
+  "firstPageUrl": "course_of_static_gk",
+  "blogName": "Static Gk"
+},
   {
     "id": "1744265348898",
     "title": "Node Js",
