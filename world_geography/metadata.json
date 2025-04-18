@@ -9,5 +9,14 @@
   ],
   "folderName": "world_geography",
   "blogName": "World Geography",
-  "subLinks": []
+  "subLinks": [
+    {
+      "title": "Course",
+      "url": "course"
+    },
+    {
+      "title": "North Continent",
+      "url": "north_continent"
+    }
+  ]
 }
