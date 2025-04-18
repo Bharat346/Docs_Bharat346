@@ -1,23 +1,23 @@
 [
   {
-  "id": "1744338000000",
-  "title": "Static Gk",
-  "author": "Bharat Kumar",
-  "date": "2025-04-10",
-  "description": "Static GK (General Knowledge) includes facts that are unlikely to change over time, such as historical events, geography, books & authors, important organizations, and Indian polity. It is crucial for competitive exams like UPSC, SSC, and state-level exams.",
-  "category": "General Knowledge",
-  "tags": [
-    "Govt Exam",
-    "Competitive Exam",
-    "Group-B",
-    "Group-C",
-    "Static GK"
-  ],
-  "folderName": "static_gk",
-  "imageUrl": "https://i.cdn.newsbytesapp.com/images/l56220230715230701.jpeg",
-  "firstPageUrl": "course_of_static_gk",
-  "blogName": "Static Gk"
-},
+    "id": "1744338000000",
+    "title": "Static Gk",
+    "author": "Bharat Kumar",
+    "date": "2025-04-10",
+    "description": "Static GK (General Knowledge) includes facts that are unlikely to change over time, such as historical events, geography, books & authors, important organizations, and Indian polity. It is crucial for competitive exams like UPSC, SSC, and state-level exams.",
+    "category": "General Knowledge",
+    "tags": [
+      "Govt Exam",
+      "Competitive Exam",
+      "Group-B",
+      "Group-C",
+      "Static GK"
+    ],
+    "folderName": "static_gk",
+    "imageUrl": "https://i.cdn.newsbytesapp.com/images/l56220230715230701.jpeg",
+    "firstPageUrl": "course_of_static_gk",
+    "blogName": "Static Gk"
+  },
   {
     "id": "1744265348898",
     "title": "Node Js",
@@ -51,5 +51,21 @@
     "imageUrl": "https://th.bing.com/th/id/OIP.E0lkFndT6PaVXfB_MJocKQHaE8?w=238&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
     "firstPageUrl": "Let_Bear",
     "blogName": "Phrasal Verbs"
+  },
+  {
+    "id": "1745002259327",
+    "title": "World Geography",
+    "author": "Bharat Kumar",
+    "description": "World geography is the study of the Earth's physical features and the human societies spread across it. It explores the relationships between people, places, and environments.",
+    "category": "Geography",
+    "date": "2025-04-18",
+    "tags": [
+      "Geography",
+      "General knowledge",
+      "World"
+    ],
+    "folderName": "world_geography",
+    "imageUrl": "https://static.vecteezy.com/system/resources/thumbnails/001/338/057/small_2x/geography-subject-with-worldmap-and-books-free-vector.jpg",
+    "firstPageUrl": "content"
   }
 ]
