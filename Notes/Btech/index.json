@@ -8,7 +8,7 @@
   "subfolders": {
     "2023": {
       "type": "Folder",
-      "title": "2023",
+      "title": "2023 Batch",
       "baseName": "2023",
       "parent": "Btech",
       "children": [],
@@ -184,7 +184,7 @@
     },
     "2024": {
       "type": "Folder",
-      "title": "2024",
+      "title": "2024 Batch",
       "baseName": "2024",
       "parent": "Btech",
       "children": [],
