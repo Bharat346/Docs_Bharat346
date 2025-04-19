@@ -15,8 +15,12 @@
       "url": "course"
     },
     {
-      "title": "North America",
+      "title": "North Continent",
       "url": "north_america"
+    },
+    {
+      "title": "South America",
+      "url": "south_america.mdx"
     }
   ]
 }
