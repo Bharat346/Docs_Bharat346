@@ -11,5 +11,18 @@
   ],
   "folderName": "vocab",
   "blogName": "Vocabulary ",
-  "subLinks": []
+  "subLinks": [
+    {
+      "title": "Day - 1",
+      "url": "day_1"
+    },
+    {
+      "title": "Day - 2",
+      "url": "day_2"
+    },
+    {
+      "title": "Day - 3",
+      "url": "day_3"
+    }
+  ]
 }
