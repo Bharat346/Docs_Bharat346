@@ -67,5 +67,23 @@
     "folderName": "world_geography",
     "imageUrl": "https://static.vecteezy.com/system/resources/thumbnails/001/338/057/small_2x/geography-subject-with-worldmap-and-books-free-vector.jpg",
     "firstPageUrl": "course"
+  },
+  {
+    "id": "1745242672477",
+    "title": "Vocabulary ",
+    "author": "Bharat Kumar",
+    "description": "Vocabulary of English refers to the collection of words used in the English language. It includes words for everyday communication, academic terms, technical jargon, slang, and idioms. A strong vocabulary helps in better understanding, speaking, reading, and writing in English. It grows over time through reading, conversation, and learning new words.",
+    "category": "English",
+    "date": "2025-04-21",
+    "tags": [
+      "English",
+      "Vocab",
+      "Synonyms",
+      "Antonyms",
+      "One Word"
+    ],
+    "folderName": "vocab",
+    "imageUrl": "https://th.bing.com/th/id/OIP.iy3vUJKi2kmhsfGWuBu70QHaEJ?w=288&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+    "firstPageUrl": "day_1"
   }
 ]
