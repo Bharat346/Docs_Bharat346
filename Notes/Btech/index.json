@@ -1,196 +1,45 @@
 {
   "type": "Folder",
-  "title": "Btech",
-  "date": "2025-04-09",
-  "baseName": "Btech",
-  "parent": "Notes",
-  "children": [],
-  "subfolders": {
-    "2023": {
-      "type": "Folder",
-      "title": "2023 Batch",
-      "baseName": "2023",
-      "parent": "Btech",
-      "children": [],
-      "subfolders": {
-        "year1": {
-          "type": "Folder",
-          "title": "1st Year",
-          "baseName": "year1",
-          "parent": "2023",
-          "children": [],
-          "subfolders": {
-            "sem1": {
-              "type": "Folder",
-              "title": "1st Semester",
-              "baseName": "sem1",
-              "parent": "year1",
-              "children": [],
-              "subfolders": {},
-              "date": "2025-04-09"
-            },
-            "sem2": {
-              "type": "Folder",
-              "title": "2nd Semester",
-              "baseName": "sem2",
-              "parent": "year1",
-              "children": [],
-              "subfolders": {},
-              "date": "2025-04-09"
-            }
-          },
-          "date": "2025-04-09"
-        },
-        "year2": {
-          "type": "Folder",
-          "title": "2nd Year",
-          "baseName": "year2",
-          "parent": "2023",
-          "children": [],
-          "subfolders": {
-            "sem3": {
-              "type": "Folder",
-              "title": "3rd Semester",
-              "baseName": "sem3",
-              "parent": "year2",
-              "children": [],
-              "subfolders": {
-                "DBMS": {
-                  "type": "Folder",
-                  "title": "DBMS",
-                  "baseName": "DBMS",
-                  "parent": "sem3",
-                  "children": [
-                    {
-                      "type": "File",
-                      "name": "data.pdf",
-                      "url": "https://drive.google.com/file/d/167riYZl6NsPESQz3YmB9USGdyveT5r3_/view?usp=sharing",
-                      "format": "pdf",
-                      "date": "2025-04-11"
-                    }
-                  ],
-                  "subfolders": {},
-                  "date": "2025-04-11"
-                }
-              },
-              "date": "2025-04-09"
-            },
-            "sem4": {
-              "type": "Folder",
-              "title": "4th Semester",
-              "baseName": "sem4",
-              "parent": "year2",
-              "children": [
-                {
-                  "type": "File",
-                  "name": "software1_Engineering.pdf",
-                  "url": "https://drive.google.com/file/d/1oPirFenFRpwFsr_mwnRzLrR2iMmCJ3kn/view?usp=drive_link",
-                  "format": "pdf",
-                  "date": "2025-04-25"
-                },
-                {
-                  "type": "File",
-                  "name": "AI.pdf",
-                  "url": "https://drive.google.com/file/d/1W3VZ5aeoRUB_Jrj8iK4Uqmz5syGHtnkf/view?usp=sharing",
-                  "format": "pdf",
-                  "date": "2025-04-10"
-                },
-                {
-                  "type": "File",
-                  "name": "Communication.pdf",
-                  "url": "https://drive.google.com/file/d/1X0nZz4otIxq8Gac0YZ8c6N-zKaur85SM/view?usp=sharing",
-                  "format": "pdf",
-                  "date": "2025-04-10"
-                },
-                {
-                  "type": "File",
-                  "name": "Communication_System.pdf",
-                  "url": "https://drive.google.com/file/d/1QaOymEIJZKCU9wPqTSLfYhpQZhHhgJYB/view?usp=sharing",
-                  "format": "pdf",
-                  "date": "2025-04-10"
-                },
-                {
-                  "type": "File",
-                  "name": "COA.pdf",
-                  "url": "https://drive.google.com/file/d/12jJFHiVfVVaH7PV0um7KmJ0JBGPj_8CG/view?usp=sharing",
-                  "format": "pdf",
-                  "date": "2025-04-10"
-                }
-              ],
-              "subfolders": {},
-              "date": "2025-04-09"
-            }
-          },
-          "date": "2025-04-09"
-        },
-        "year3": {
-          "type": "Folder",
-          "title": "3rd Year",
-          "baseName": "year3",
-          "parent": "2023",
-          "children": [],
-          "subfolders": {
-            "sem5": {
-              "type": "Folder",
-              "title": "5th Semester",
-              "baseName": "sem5",
-              "parent": "year3",
-              "children": [],
-              "subfolders": {},
-              "date": "2025-04-09"
-            },
-            "sem6": {
-              "type": "Folder",
-              "title": "6th Semester",
-              "baseName": "sem6",
-              "parent": "year3",
-              "children": [],
-              "subfolders": {},
-              "date": "2025-04-09"
-            }
-          },
-          "date": "2025-04-09"
-        },
-        "year4": {
-          "type": "Folder",
-          "title": "4th Year",
-          "baseName": "year4",
-          "parent": "2023",
-          "children": [],
-          "subfolders": {
-            "sem7": {
-              "type": "Folder",
-              "title": "7th Semester",
-              "baseName": "sem7",
-              "parent": "year4",
-              "children": [],
-              "subfolders": {},
-              "date": "2025-04-09"
-            },
-            "sem8": {
-              "type": "Folder",
-              "title": "8th Semester",
-              "baseName": "sem8",
-              "parent": "year4",
-              "children": [],
-              "subfolders": {},
-              "date": "2025-04-09"
-            }
-          },
-          "date": "2025-04-09"
-        }
-      },
-      "date": "2025-04-09"
+  "title": "4th Semester",
+  "baseName": "sem4",
+  "parent": "year2",
+  "children": [
+    {
+      "type": "File",
+      "name": "software_Engineering.pdf",
+      "url": "example.com",
+      "format": "pdf",
+      "date": "2025-04-25"
     },
-    "2024": {
-      "type": "Folder",
-      "title": "2024 Batch",
-      "baseName": "2024",
-      "parent": "Btech",
-      "children": [],
-      "subfolders": {},
-      "date": "2025-04-09"
+    {
+      "type": "File",
+      "name": "AI.pdf",
+      "url": "https://drive.google.com/file/d/1W3VZ5aeoRUB_Jrj8iK4Uqmz5syGHtnkf/view?usp=sharing",
+      "format": "pdf",
+      "date": "2025-04-10"
+    },
+    {
+      "type": "File",
+      "name": "Communication.pdf",
+      "url": "https://drive.google.com/file/d/1X0nZz4otIxq8Gac0YZ8c6N-zKaur85SM/view?usp=sharing",
+      "format": "pdf",
+      "date": "2025-04-10"
+    },
+    {
+      "type": "File",
+      "name": "Communication_System.pdf",
+      "url": "https://drive.google.com/file/d/1QaOymEIJZKCU9wPqTSLfYhpQZhHhgJYB/view?usp=sharing",
+      "format": "pdf",
+      "date": "2025-04-10"
+    },
+    {
+      "type": "File",
+      "name": "COA.pdf",
+      "url": "https://drive.google.com/file/d/12jJFHiVfVVaH7PV0um7KmJ0JBGPj_8CG/view?usp=sharing",
+      "format": "pdf",
+      "date": "2025-04-10"
     }
-  },
-  "subFiles": {}
+  ],
+  "subfolders": {},
+  "date": "2025-04-09"
 }
