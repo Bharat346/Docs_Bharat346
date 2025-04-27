@@ -40,6 +40,81 @@
       "date": "2025-04-10"
     }
   ],
-  "subfolders": {},
+  "subfolders": {
+    "2023": {
+      "type": "Folder",
+      "title": "Batch 2023",
+      "baseName": "2023",
+      "parent": "Btech",
+      "children": [],
+      "subfolders": {
+        "year1": {
+          "type": "Folder",
+          "title": "1st Year",
+          "baseName": "year1",
+          "parent": "2023",
+          "children": [],
+          "subfolders": {
+            "sem1": {
+              "type": "Folder",
+              "title": "1st sem",
+              "baseName": "sem1",
+              "parent": "year1",
+              "children": [],
+              "subfolders": {},
+              "date": "2025-04-27"
+            },
+            "sem2": {
+              "type": "Folder",
+              "title": "2nd sem",
+              "baseName": "sem2",
+              "parent": "year1",
+              "children": [],
+              "subfolders": {},
+              "date": "2025-04-27"
+            }
+          },
+          "date": "2025-04-27"
+        },
+        "year2": {
+          "type": "Folder",
+          "title": "2nd Year",
+          "baseName": "year2",
+          "parent": "2023",
+          "children": [],
+          "subfolders": {},
+          "date": "2025-04-27"
+        },
+        "year3": {
+          "type": "Folder",
+          "title": "3rd Year",
+          "baseName": "year3",
+          "parent": "2023",
+          "children": [],
+          "subfolders": {},
+          "date": "2025-04-27"
+        },
+        "year4": {
+          "type": "Folder",
+          "title": "4th Year",
+          "baseName": "year4",
+          "parent": "2023",
+          "children": [],
+          "subfolders": {},
+          "date": "2025-04-27"
+        }
+      },
+      "date": "2025-04-27"
+    },
+    "2024": {
+      "type": "Folder",
+      "title": "Batch 2024",
+      "baseName": "2024",
+      "parent": "Btech",
+      "children": [],
+      "subfolders": {},
+      "date": "2025-04-27"
+    }
+  },
   "date": "2025-04-09"
 }
