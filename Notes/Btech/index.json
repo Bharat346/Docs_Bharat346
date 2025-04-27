@@ -97,7 +97,43 @@
               "title": "4th sem",
               "baseName": "sem4",
               "parent": "year2",
-              "children": [],
+              "children": [
+                {
+                  "type": "File",
+                  "name": "software_Engineering.pdf",
+                  "url": "https://drive.google.com/file/d/1oPirFenFRpwFsr_mwnRzLrR2iMmCJ3kn/view?usp=drive_link",
+                  "format": "pdf",
+                  "date": "2025-04-27"
+                },
+                {
+                  "type": "File",
+                  "name": "AI.pdf",
+                  "url": "https://drive.google.com/file/d/1W3VZ5aeoRUB_Jrj8iK4Uqmz5syGHtnkf/view?usp=sharing",
+                  "format": "pdf",
+                  "date": "2025-04-27"
+                },
+                {
+                  "type": "File",
+                  "name": "Communication.pdf",
+                  "url": "https://drive.google.com/file/d/1X0nZz4otIxq8Gac0YZ8c6N-zKaur85SM/view?usp=sharing",
+                  "format": "pdf",
+                  "date": "2025-04-27"
+                },
+                {
+                  "type": "File",
+                  "name": "Communication_System.pdf",
+                  "url": "https://drive.google.com/file/d/1QaOymEIJZKCU9wPqTSLfYhpQZhHhgJYB/view?usp=sharing",
+                  "format": "pdf",
+                  "date": "2025-04-27"
+                },
+                {
+                  "type": "File",
+                  "name": "COA.pdf",
+                  "url": "https://drive.google.com/file/d/12jJFHiVfVVaH7PV0um7KmJ0JBGPj_8CG/view?usp=sharing",
+                  "format": "pdf",
+                  "date": "2025-04-27"
+                }
+              ],
               "subfolders": {},
               "date": "2025-04-27"
             }
