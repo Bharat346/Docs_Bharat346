@@ -125,6 +125,20 @@
                       "url": "https://drive.google.com/file/d/1gpEIW5a70WKgZHzx-vcMt-WLTs-IFLWl/view?usp=sharing",
                       "format": "pdf",
                       "date": "2025-04-28"
+                    },
+                    {
+                      "type": "File",
+                      "name": "Software_Design.pdf",
+                      "url": "https://drive.google.com/file/d/1S7bCA8Hou9EUtcOMbs632I4SgCMo1vPM/view?usp=sharing",
+                      "format": "pdf",
+                      "date": "2025-05-06"
+                    },
+                    {
+                      "type": "File",
+                      "name": "SDLC_SRS.pdf",
+                      "url": "https://drive.google.com/file/d/1o4hDvBZNHXRILBvqzh0AUV3NbCvB4xG3/view?usp=drive_link",
+                      "format": "pdf",
+                      "date": "2025-05-06"
                     }
                   ],
                   "subfolders": {},
