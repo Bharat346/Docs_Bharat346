@@ -5,7 +5,7 @@
     "author": "Bharat Kumar",
     "date": "2025-04-10",
     "description": "Static GK (General Knowledge) includes facts that are unlikely to change over time, such as historical events, geography, books & authors, important organizations, and Indian polity. It is crucial for competitive exams like UPSC, SSC, and state-level exams.",
-    "category": "General Knowledge",
+    "category": "gk-gs",
     "tags": [
       "Govt Exam",
       "Competitive Exam",
@@ -57,7 +57,7 @@
     "title": "World Geography",
     "author": "Bharat Kumar",
     "description": "World geography is the study of the Earth's physical features and the human societies spread across it. It explores the relationships between people, places, and environments.",
-    "category": "Geography",
+    "category": "gk-gs",
     "date": "2025-04-18",
     "tags": [
       "Geography",
