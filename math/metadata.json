@@ -10,5 +10,14 @@
   ],
   "folderName": "math",
   "blogName": "Math",
-  "subLinks": []
+  "subLinks": [
+    {
+      "title": "Course",
+      "url": "course_of_math"
+    },
+    {
+      "title": "Ratio and Proportion",
+      "url": "ratio_and_proportion"
+    }
+  ]
 }
