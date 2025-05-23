@@ -85,5 +85,22 @@
     "folderName": "vocab",
     "imageUrl": "https://th.bing.com/th/id/OIP.iy3vUJKi2kmhsfGWuBu70QHaEJ?w=288&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
     "firstPageUrl": "day_1"
+  },
+  {
+    "id": "1748017846254",
+    "title": "Math",
+    "author": "Bharat Kumar",
+    "description": "Mathematical Quantitative Aptitude involves solving problems related to numbers, arithmetic, algebra, geometry, and data interpretation. It tests logical thinking and numerical ability essential for competitive exams.",
+    "category": "Math",
+    "date": "2025-05-23",
+    "tags": [
+      "Aptitude",
+      "Govt. Exams",
+      "SSC-CGL",
+      "Railway"
+    ],
+    "folderName": "math",
+    "imageUrl": "https://t4.ftcdn.net/jpg/04/38/69/77/360_F_438697746_I2ATOt6Z7GcWNxneDYJX2baafYk2YKHh.jpg",
+    "firstPageUrl": "course_of_math"
   }
 ]
